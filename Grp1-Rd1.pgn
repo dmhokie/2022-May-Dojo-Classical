@@ -2,17 +2,80 @@
 [Site "chess.com"]
 [Date "2022.05.30"]
 [Round "1"]
-[White "SophieSafuya"]
-[Black "Liviu7766"]
+[White "bastkerg"]
+[Black "jcougars7"]
+[Result "0-1"]
+[Section "u1200"]
+[WhiteId "kastberg#4838"]
+[BlackId "jcougars7"]
+[WhiteElo "572"]
+[BlackElo "1036"]
+
+{[%SevillaID "3643"]}
+0-1
+
+[Event "2022 May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.30"]
+[Round "1"]
+[White "Bradwah"]
+[Black "KC_Master_Piece"]
 [Result "*"]
 [Section "u1200"]
-[WhiteId "Safuya#7702"]
-[BlackId "Liviu7766 #4125"]
-[WhiteElo "1179"]
-[BlackElo "969"]
+[WhiteId "Dany Dog#6090"]
+[WhiteElo "899"]
+[BlackElo "1104"]
 
-{[%SevillaID "3636"]}
+{[%SevillaID "3639"]}
 *
+
+[Event "2022 May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.30"]
+[Round "1"]
+[White "crcarson"]
+[Black "weekesy90"]
+[Result "0-1"]
+[Section "u1200"]
+[WhiteId "crcarson#1710"]
+[BlackId "cweekes90#3511"]
+[WhiteElo "757"]
+[BlackElo "1095"]
+
+{[%SevillaID "3641"]}
+0-1
+
+[Event "2022 May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.30"]
+[Round "1"]
+[White "Hola2World"]
+[Black "panickedpawns"]
+[Result "1-0"]
+[Section "u1200"]
+[WhiteId "Hola2World (#7247)"]
+[BlackId "panickedpawns#4030"]
+[WhiteElo "1100"]
+[BlackElo "864"]
+
+{[%SevillaID "3640"]}
+1-0
+
+[Event "2022 May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.30"]
+[Round "1"]
+[White "mongreltiger"]
+[Black "FXL3"]
+[Result "1-0"]
+[Section "u1200"]
+[WhiteId "mongreltiger#9686"]
+[BlackId "Francis Lally#6936"]
+[WhiteElo "1069"]
+[BlackElo "602"]
+
+{[%SevillaID "3642"]}
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +83,7 @@
 [Round "1"]
 [White "nhendo66"]
 [Black "cantletgo"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "nhendo66#4418"]
 [BlackId "clg#0865"]
@@ -28,7 +91,7 @@
 [BlackElo "1171"]
 
 {[%SevillaID "3637"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -50,88 +113,9 @@
 [Site "chess.com"]
 [Date "2022.05.30"]
 [Round "1"]
-[White "Bradwah"]
-[Black "KC_Master_Piece"]
-[Result "*"]
-[Section "u1200"]
-[WhiteId "Dany Dog#6090"]
-[WhiteElo "899"]
-[BlackElo "1104"]
-
-{[%SevillaID "3639"]}
-*
-
-[Event "2022 May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.30"]
-[Round "1"]
-[White "Hola2World"]
-[Black "panickedpawns"]
-[Result "*"]
-[Section "u1200"]
-[WhiteId "Hola2World (#7247)"]
-[BlackId "panickedpawns#4030"]
-[WhiteElo "1100"]
-[BlackElo "864"]
-
-{[%SevillaID "3640"]}
-*
-
-[Event "2022 May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.30"]
-[Round "1"]
-[White "crcarson"]
-[Black "weekesy90"]
-[Result "*"]
-[Section "u1200"]
-[WhiteId "crcarson#1710"]
-[BlackId "cweekes90#3511"]
-[WhiteElo "757"]
-[BlackElo "1095"]
-
-{[%SevillaID "3641"]}
-*
-
-[Event "2022 May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.30"]
-[Round "1"]
-[White "mongreltiger"]
-[Black "FXL3"]
-[Result "*"]
-[Section "u1200"]
-[WhiteId "mongreltiger#9686"]
-[BlackId "Francis Lally#6936"]
-[WhiteElo "1069"]
-[BlackElo "602"]
-
-{[%SevillaID "3642"]}
-*
-
-[Event "2022 May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.30"]
-[Round "1"]
-[White "bastkerg"]
-[Black "jcougars7"]
-[Result "*"]
-[Section "u1200"]
-[WhiteId "kastberg#4838"]
-[BlackId "jcougars7 "]
-[WhiteElo "572"]
-[BlackElo "1036"]
-
-{[%SevillaID "3643"]}
-*
-
-[Event "2022 May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.05.30"]
-[Round "1"]
 [White "SageMuffin"]
 [Black "thanushChess"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "SageMuffin#0150"]
 [BlackId "thanushChess#7745"]
@@ -139,6 +123,22 @@
 [BlackElo "542"]
 
 {[%SevillaID "3644"]}
-*
+1-0
+
+[Event "2022 May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.05.30"]
+[Round "1"]
+[White "SophieSafuya"]
+[Black "Liviu7766"]
+[Result "0-1"]
+[Section "u1200"]
+[WhiteId "Safuya#7702"]
+[BlackId "Liviu7766 #4125"]
+[WhiteElo "1179"]
+[BlackElo "969"]
+
+{[%SevillaID "3636"]}
+0-1
 
 
