@@ -4,14 +4,14 @@
 [Round "1"]
 [White "Ashhamm"]
 [Black "romarioremmy87"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Lief#6826"]
 [WhiteElo "1304"]
 [BlackElo "1484"]
 
 {[%SevillaID "3630"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -35,7 +35,7 @@
 [Round "1"]
 [White "backgroundtasks"]
 [Black "Lutin23"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "backgroundtasks#8903"]
 [BlackId "Wolfgang#6815"]
@@ -43,7 +43,7 @@
 [BlackElo "1205"]
 
 {[%SevillaID "3635"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -51,7 +51,7 @@
 [Round "1"]
 [White "brian1729"]
 [Black "alive50"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "antler killer(Brian)#5031"]
 [BlackId "alive50"]
@@ -59,7 +59,7 @@
 [BlackElo "1493"]
 
 {[%SevillaID "3628"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -178,7 +178,7 @@
 [Round "1"]
 [White "KlutchEZ"]
 [Black "Lona_Chess"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "Klutch#9847"]
 [BlackId "Lona_Chess#4121"]
@@ -186,7 +186,7 @@
 [BlackElo "1529"]
 
 {[%SevillaID "3624"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]

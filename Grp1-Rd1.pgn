@@ -20,14 +20,14 @@
 [Round "1"]
 [White "Bradwah"]
 [Black "KC_Master_Piece"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "Dany Dog#6090"]
 [WhiteElo "899"]
 [BlackElo "1104"]
 
 {[%SevillaID "3639"]}
-*
+1/2-1/2
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -99,7 +99,7 @@
 [Round "1"]
 [White "Ricker"]
 [Black "BrunoMartens"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Ricker #5570"]
 [BlackId "BrunoMartens"]
@@ -107,7 +107,7 @@
 [BlackElo "915"]
 
 {[%SevillaID "3638"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
