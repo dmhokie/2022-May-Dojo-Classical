@@ -4,7 +4,7 @@
 [Round "2"]
 [White "BermudaRayo"]
 [Black "ImFiveBucks"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "BermudaRayo#3762"]
 [BlackId "Pieman#2767"]
@@ -12,7 +12,7 @@
 [BlackElo "1804"]
 
 {[%SevillaID "3701"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "2"]
 [White "Dan-Jon"]
 [Black "GroovyGoat82904"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "#Moka Efti"]
 [BlackId "GroovyGoat#7085"]
@@ -28,7 +28,7 @@
 [BlackElo "1814"]
 
 {[%SevillaID "3704"]}
-*
+1/2-1/2
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "2"]
 [White "headcanon"]
 [Black "kuros_pl"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "zeedo#2304"]
 [BlackId "kuros#4105"]
@@ -44,7 +44,7 @@
 [BlackElo "2058"]
 
 {[%SevillaID "3698"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -68,14 +68,14 @@
 [Round "2"]
 [White "KhaledAmir21"]
 [Black "mapview"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "KhaledAmir#8503"]
 [WhiteElo "1614"]
 [BlackElo "1704"]
 
 {[%SevillaID "3707"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -83,14 +83,14 @@
 [Round "2"]
 [White "khang421"]
 [Black "kyle_b81"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "its trudeau#0521"]
 [WhiteElo "1707"]
 [BlackElo "1640"]
 
 {[%SevillaID "3706"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -98,7 +98,7 @@
 [Round "2"]
 [White "morphyfanLL"]
 [Black "CornerPawn"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "morphyfanLL#8385"]
 [BlackId "CornerPawn#7745"]
@@ -106,7 +106,7 @@
 [BlackElo "1710"]
 
 {[%SevillaID "3705"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -114,7 +114,7 @@
 [Round "2"]
 [White "Prab76"]
 [Black "EKersh"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "Prab76#5267"]
 [BlackId "Klaud#7024"]
@@ -122,7 +122,7 @@
 [BlackElo "1857"]
 
 {[%SevillaID "3699"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -130,7 +130,7 @@
 [Round "2"]
 [White "spider_cube"]
 [Black "alfbz"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "spider_cube"]
 [BlackId "alfbz#7639"]
@@ -138,7 +138,7 @@
 [BlackElo "1705"]
 
 {[%SevillaID "3702"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
