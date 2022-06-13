@@ -36,7 +36,7 @@
 [Round "2"]
 [White "chessbabble"]
 [Black "sabuha"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "knightlysquid"]
 [BlackId "sabuha"]
@@ -44,7 +44,7 @@
 [BlackElo "1495"]
 
 {[%SevillaID "3679"]}
-*
+0-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -52,13 +52,13 @@
 [Round "2"]
 [White "Chris4467"]
 [Black "cicipov"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteElo "1203"]
 [BlackElo "1280"]
 
 {[%SevillaID "3681"]}
-*
+1/2-1/2
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -98,7 +98,7 @@
 [Round "2"]
 [White "illini80"]
 [Black "skebix"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "illini80 #7994"]
 [BlackId "skebix#1853"]
@@ -106,7 +106,7 @@
 [BlackElo "1354"]
 
 {[%SevillaID "3678"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -162,7 +162,7 @@
 [Round "2"]
 [White "krepecka"]
 [Black "lowprofilejob"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [WhiteId "krepecka#2758"]
 [BlackId "muaddib#9016"]
@@ -170,7 +170,7 @@
 [BlackElo "1551"]
 
 {[%SevillaID "3682"]}
-*
+0-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -178,7 +178,7 @@
 [Round "2"]
 [White "Lutin23"]
 [Black "dokako"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "Wolfgang#6815"]
 [BlackId "dokako #6196"]
@@ -186,7 +186,7 @@
 [BlackElo "1435"]
 
 {[%SevillaID "3676"]}
-*
+1/2-1/2
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -225,7 +225,7 @@
 [Round "2"]
 [White "sinmo"]
 [Black "Falken1984"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "Sinmojito #5814"]
 [BlackId "Falken1984#4114"]
@@ -233,7 +233,7 @@
 [BlackElo "1282"]
 
 {[%SevillaID "3684"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -241,13 +241,13 @@
 [Round "2"]
 [White "thinkerbell1"]
 [Black "Clues39"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [BlackId "Clues39#1620"]
 [WhiteElo "1254"]
 [BlackElo "1483"]
 
 {[%SevillaID "3680"]}
-*
+0-1
 
 

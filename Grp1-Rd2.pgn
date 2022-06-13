@@ -4,7 +4,7 @@
 [Round "2"]
 [White "BrunoMartens"]
 [Black "crcarson"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "BrunoMartens"]
 [BlackId "crcarson#1710"]
@@ -12,7 +12,7 @@
 [BlackElo "757"]
 
 {[%SevillaID "3654"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "2"]
 [White "ielamahae"]
 [Black "Bradwah"]
-[Result "0-1"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "#ifixfridges"]
 [BlackId "Dany Dog#6090"]
@@ -60,7 +60,7 @@
 [BlackElo "899"]
 
 {[%SevillaID "3651"]}
-0-1
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +131,7 @@
 [Round "2"]
 [White "panickedpawns"]
 [Black "bastkerg"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "panickedpawns#4030"]
 [BlackId "kastberg#4838"]
@@ -139,7 +139,7 @@
 [BlackElo "572"]
 
 {[%SevillaID "3655"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
