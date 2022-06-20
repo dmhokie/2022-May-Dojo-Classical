@@ -207,6 +207,22 @@
 [Site "chess.com"]
 [Date "2022.06.20"]
 [Round "4"]
+[White "numky"]
+[Black "Lutin23"]
+[Result "*"]
+[Section "1200-1600"]
+[WhiteId "numky#9680"]
+[BlackId "Wolfgang#6815"]
+[WhiteElo "1427"]
+[BlackElo "1205"]
+
+{[%SevillaID "3852"]}
+*
+
+[Event "2022 May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.06.20"]
+[Round "4"]
 [White "skebix"]
 [Black "brian1729"]
 [Result "*"]
