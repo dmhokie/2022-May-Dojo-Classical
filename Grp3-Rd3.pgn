@@ -4,7 +4,7 @@
 [Round "3"]
 [White "alfbz"]
 [Black "morphyfanLL"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "alfbz#7639"]
 [BlackId "morphyfanLL#8385"]
@@ -12,7 +12,7 @@
 [BlackElo "1643"]
 
 {[%SevillaID "3790"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "3"]
 [White "BermudaRayo"]
 [Black "kuros_pl"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "BermudaRayo#3762"]
 [BlackId "kuros#4105"]
@@ -28,7 +28,7 @@
 [BlackElo "2058"]
 
 {[%SevillaID "3784"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "3"]
 [White "CornerPawn"]
 [Black "KnightOwl_333"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "CornerPawn#7745"]
 [BlackId "Shaun Pinto #3987"]
@@ -44,7 +44,7 @@
 [BlackElo "1666"]
 
 {[%SevillaID "3788"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "3"]
 [White "EKersh"]
 [Black "khang421"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "Klaud#7024"]
 [BlackId "its trudeau#0521"]
@@ -60,7 +60,7 @@
 [BlackElo "1707"]
 
 {[%SevillaID "3787"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -68,14 +68,14 @@
 [Round "3"]
 [White "kyle_b81"]
 [Black "KhaledAmir21"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [BlackId "KhaledAmir#8503"]
 [WhiteElo "1640"]
 [BlackElo "1614"]
 
 {[%SevillaID "3791"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -83,14 +83,14 @@
 [Round "3"]
 [White "mapview"]
 [Black "Dan-Jon"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [BlackId "#Moka Efti"]
 [WhiteElo "1704"]
 [BlackElo "1702"]
 
 {[%SevillaID "3789"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -98,7 +98,7 @@
 [Round "3"]
 [White "Prab76"]
 [Black "joel_cato"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "Prab76#5267"]
 [BlackId "joel#7861"]
@@ -106,7 +106,7 @@
 [BlackElo "1745"]
 
 {[%SevillaID "3785"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -114,7 +114,7 @@
 [Round "3"]
 [White "sigitaskeras"]
 [Black "yaR 33"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "skeras#0013"]
 [BlackId "yaR_33#0033"]
@@ -122,6 +122,6 @@
 [BlackElo "1782"]
 
 {[%SevillaID "3786"]}
-*
+1-0
 
 
