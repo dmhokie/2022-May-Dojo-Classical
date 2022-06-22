@@ -36,7 +36,7 @@
 [Round "3"]
 [White "CornerPawn"]
 [Black "KnightOwl_333"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "CornerPawn#7745"]
 [BlackId "knightowl_333#3987"]
@@ -44,7 +44,7 @@
 [BlackElo "1666"]
 
 {[%SevillaID "3788"]}
-1-0
+1/2-1/2
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
