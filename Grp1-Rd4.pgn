@@ -4,7 +4,7 @@
 [Round "4"]
 [White "BrunoMartens"]
 [Black "bastkerg"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "BrunoMartens"]
 [BlackId "kastberg#4838"]
@@ -12,7 +12,7 @@
 [BlackElo "572"]
 
 {[%SevillaID "3801"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "4"]
 [White "Imagian"]
 [Black "KrowsNestGames"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Imagian (C, L, -7)#6044"]
 [BlackId "Krow#5802"]
@@ -28,7 +28,7 @@
 [BlackElo "249"]
 
 {[%SevillaID "3799"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "4"]
 [White "jcougars7"]
 [Black "thanushChess"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "jcougars7"]
 [BlackId "thanushChess#7745"]
@@ -44,7 +44,7 @@
 [BlackElo "542"]
 
 {[%SevillaID "3800"]}
-*
+1/2-1/2
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "4"]
 [White "joey_steel"]
 [Black "SophieSafuya"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "phil#3699"]
 [BlackId "Safuya#7702"]
@@ -60,7 +60,7 @@
 [BlackElo "1179"]
 
 {[%SevillaID "3793"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -68,14 +68,14 @@
 [Round "4"]
 [White "KC_Master_Piece"]
 [Black "ielamahae"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [BlackId "#ifixfridges"]
 [WhiteElo "1104"]
 [BlackElo "1100"]
 
 {[%SevillaID "3798"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -83,7 +83,7 @@
 [Round "4"]
 [White "nhendo66"]
 [Black "Hola2World"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "nhendo66#4418"]
 [BlackId "Hola2World (#7247)"]
@@ -91,7 +91,7 @@
 [BlackElo "1100"]
 
 {[%SevillaID "3795"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -99,7 +99,7 @@
 [Round "4"]
 [White "panickedpawns"]
 [Black "mongreltiger"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "panickedpawns#4030"]
 [BlackId "mongreltiger#9686"]
@@ -107,7 +107,7 @@
 [BlackElo "1069"]
 
 {[%SevillaID "3796"]}
-*
+1-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -115,7 +115,7 @@
 [Round "4"]
 [White "Sabreref"]
 [Black "bixbyhall"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "MBush0450#3149"]
 [BlackId "samhall#8605"]
@@ -123,7 +123,7 @@
 [BlackElo "1162"]
 
 {[%SevillaID "3797"]}
-*
+0-0
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +131,7 @@
 [Round "4"]
 [White "SageMuffin"]
 [Black "Ricker"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "SageMuffin#0150"]
 [BlackId "Ricker #5570"]
@@ -139,22 +139,22 @@
 [BlackElo "1166"]
 
 {[%SevillaID "3794"]}
-*
+0-1
 
 [Event "2022 May Dojo Classical"]
 [Site "chess.com"]
 [Date "2022.06.20"]
 [Round "4"]
-[White "weekesy90"]
-[Black "Liviu7766"]
-[Result "*"]
+[White "Liviu7766"]
+[Black "weekesy90"]
+[Result "1-0"]
 [Section "u1200"]
-[WhiteId "cweekes90#3511"]
-[BlackId "Liviu7766 #4125"]
-[WhiteElo "1095"]
-[BlackElo "969"]
+[WhiteId "Liviu7766 #4125"]
+[BlackId "cweekes90#3511"]
+[WhiteElo "969"]
+[BlackElo "1095"]
 
 {[%SevillaID "3792"]}
-*
+1-0
 
 
