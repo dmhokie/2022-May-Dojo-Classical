@@ -11,7 +11,7 @@
 [WhiteElo "1493"]
 [BlackElo "1343"]
 
-{[%SevillaID "3943"]}
+{[%SevillaID "3979"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -26,7 +26,7 @@
 [WhiteElo "1503"]
 [BlackElo "1237"]
 
-{[%SevillaID "3948"]}
+{[%SevillaID "3984"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -42,7 +42,7 @@
 [WhiteElo "1493"]
 [BlackElo "1354"]
 
-{[%SevillaID "3944"]}
+{[%SevillaID "3980"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -58,7 +58,7 @@
 [WhiteElo "1380"]
 [BlackElo "1282"]
 
-{[%SevillaID "3954"]}
+{[%SevillaID "3990"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -74,7 +74,7 @@
 [WhiteElo "1311"]
 [BlackElo "1350"]
 
-{[%SevillaID "3945"]}
+{[%SevillaID "3981"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -89,7 +89,7 @@
 [WhiteElo "1203"]
 [BlackElo "1304"]
 
-{[%SevillaID "3952"]}
+{[%SevillaID "3988"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -105,7 +105,7 @@
 [WhiteElo "1449"]
 [BlackElo "1435"]
 
-{[%SevillaID "3950"]}
+{[%SevillaID "3986"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -121,7 +121,7 @@
 [WhiteElo "1232"]
 [BlackElo "1334"]
 
-{[%SevillaID "3947"]}
+{[%SevillaID "3983"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -137,7 +137,7 @@
 [WhiteElo "1231"]
 [BlackElo "1495"]
 
-{[%SevillaID "3953"]}
+{[%SevillaID "3989"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -153,7 +153,7 @@
 [WhiteElo "1259"]
 [BlackElo "1501"]
 
-{[%SevillaID "3946"]}
+{[%SevillaID "3982"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -168,39 +168,7 @@
 [WhiteElo "1332"]
 [BlackElo "1484"]
 
-{[%SevillaID "3949"]}
-*
-
-[Event "2022 May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.07.04"]
-[Round "6"]
-[White "kauberdi"]
-[Black "krepecka"]
-[Result "*"]
-[Section "1200-1600"]
-[WhiteId "#8577"]
-[BlackId "krepecka#2758"]
-[WhiteElo "1290"]
-[BlackElo "1306"]
-
-{[%SevillaID "3956"]}
-*
-
-[Event "2022 May Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.07.04"]
-[Round "6"]
-[White "Lutin23"]
-[Black "numky"]
-[Result "*"]
-[Section "1200-1600"]
-[WhiteId "Wolfgang#6815"]
-[BlackId "numky#9680"]
-[WhiteElo "1205"]
-[BlackElo "1427"]
-
-{[%SevillaID "3955"]}
+{[%SevillaID "3985"]}
 *
 
 [Event "2022 May Dojo Classical"]
@@ -216,7 +184,23 @@
 [WhiteElo "1440"]
 [BlackElo "1413"]
 
-{[%SevillaID "3951"]}
+{[%SevillaID "3987"]}
+*
+
+[Event "2022 May Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.07.04"]
+[Round "6"]
+[White "numky"]
+[Black "kauberdi"]
+[Result "*"]
+[Section "1200-1600"]
+[WhiteId "numky#9680"]
+[BlackId "#8577"]
+[WhiteElo "1427"]
+[BlackElo "1290"]
+
+{[%SevillaID "3991"]}
 *
 
 
